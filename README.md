@@ -1,6 +1,16 @@
-# Kerdos
+<div align="center">
 
-### Built for M# 2026 by Team Daemon
+# Kerdos
+**Contagion Prevention & Relational Financial Intelligence Platform for Joint Liability Lending**
+
+[![Flutter](https://img.shields.io/badge/Flutter-3.29-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![PyTorch Geometric](https://img.shields.io/badge/PyG-GraphSAGE-EE4C2C?logo=pytorch&logoColor=white)](https://pyg.org)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org)
+[![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Android-4CAF50)](https://github.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+</div>
 
 ***
 
@@ -11,6 +21,38 @@ Kerdos is a financial intelligence and systemic risk mitigation platform enginee
 In standard solidarity lending, groups of five to ten borrowers collectively guarantee individual loans. Traditional core banking ledgers monitor portfolios using backward looking repayment rates. When an individual borrower faces acute distress, peers quietly deplete their emergency savings to cover the installment. The core banking system records one hundred percent on time repayment, while collective resilience is severely hollowed out. A minor secondary disruption subsequently causes an abrupt, multi borrower default cascade.
 
 Kerdos detects masked distress before group collapse occurs by synthesizing multi relational network topologies, dual model machine learning ensembles, and econometric causal identification.
+
+***
+
+## Visual Interface and Interactive Workflows
+
+### 1. Executive Entry and Organic Network Mesh
+The entry gateway renders an interactive twenty eight node relational mesh modeling dynamic stress propagation and ledger recovery across connected solidarity clusters.
+
+<p align="center">
+  <img src="docs/images/landing_mesh.png" alt="Executive Entry and Organic Network Mesh" width="90%">
+</p>
+
+### 2. Institutional Field Triage and AI Overview
+The flagship triage view contrasts on paper records against hidden reality, highlighting where peer emergency savings have been depleted behind a deceptive one hundred percent repayment ledger, accompanied by live AI synthesis and human override logging.
+
+<p align="center">
+  <img src="docs/images/field_triage.png" alt="Institutional Field Triage and AI Overview" width="90%">
+</p>
+
+### 3. Graph Simulation Lab and Cascade Sandbox
+An interactive dark viewport displaying multi relational edge topologies with layer filtering, twelve period historical cascade replay, and forward Monte Carlo shock injection testing group survival probabilities.
+
+<p align="center">
+  <img src="docs/images/graph_simulation.png" alt="Graph Simulation Lab and Cascade Sandbox" width="90%">
+</p>
+
+### 4. Portfolio Analytics and Econometric Causal Attribution
+Executive Portfolio at Risk metrics in Indian Rupees, three way causal risk decomposition, and instrumental variable econometric validation confirming peer contagion operates independently of regional macro shocks.
+
+<p align="center">
+  <img src="docs/images/portfolio_analytics.png" alt="Portfolio Analytics and Econometric Causal Attribution" width="90%">
+</p>
 
 ***
 
@@ -57,9 +99,17 @@ Executes two hundred fifty forward simulation iterations across discrete timeste
 to_push/
 │
 ├── README.md
+├── LICENSE
 ├── .gitignore
 ├── ai_model_context.md
 ├── system_architecture_and_user_guide.md
+│
+├── docs/
+│   └── images/
+│       ├── landing_mesh.png
+│       ├── field_triage.png
+│       ├── graph_simulation.png
+│       └── portfolio_analytics.png
 │
 ├── backend/
 │   ├── main.py
