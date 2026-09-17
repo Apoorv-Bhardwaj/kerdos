@@ -1,0 +1,18 @@
+{
+  "@@locale": "kn",
+  "appTagline": "ಗುಂಪಿನ ನಿಜವಾದ ಅಪಾಯವನ್ನು ಯಾರು ಹೊತ್ತಿದ್ದಾರೆ ಎಂಬುದನ್ನು ನೋಡಿ.",
+  "continueLabel": "ಮುಂದುವರಿಸಿ",
+  "languageLabel": "ಭಾಷೆ",
+  "lenderPortalTitle": "ಸಾಲದಾತ ಪೋರ್ಟಲ್",
+  "lenderPortalDescription": "ಗುಂಪಿನ ಆರೋಗ್ಯವನ್ನು ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ, ಹರಡುವಿಕೆಯನ್ನು ಪತ್ತೆಹಚ್ಚಿ, ಮುಂಚಿತವಾಗಿ ಕ್ರಮ ಕೈಗೊಳ್ಳಿ.",
+  "borrowerPortalTitle": "ಸಾಲಗಾರ ಪೋರ್ಟಲ್",
+  "borrowerPortalDescription": "ನಿಮ್ಮ ಸಾಲದ ಸ್ಥಿತಿ ಮತ್ತು ನಿಮ್ಮ ಗುಂಪಿನ ಪ್ರಗತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.",
+  "switchPortal": "ಪೋರ್ಟಲ್ ಬದಲಾಯಿಸಿ",
+  "fieldTriageTab": "ಫೀಲ್ಡ್ ಟ್ರಯಾಜ್",
+  "graphSimulationTab": "ಗ್ರಾಫ್ ಮತ್ತು ಸಿಮ್ಯುಲೇಶನ್",
+  "portfolioAnalyticsTab": "ಪೋರ್ಟ್‌ಫೋಲಿಯೋ ಅನಾಲಿಟಿಕ್ಸ್",
+  "myLoanTab": "ನನ್ನ ಸಾಲ",
+  "myGroupTab": "ನನ್ನ ಗುಂಪು",
+  "declareHardshipTab": "ಕಷ್ಟವನ್ನು ತಿಳಿಸಿ",
+  "comingSoon": "ಈ ಪರದೆ ಇನ್ನೂ ಸಿದ್ಧವಾಗುತ್ತಿದೆ."
+}

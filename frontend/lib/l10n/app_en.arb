@@ -1,0 +1,19 @@
+{
+  "@@locale": "en",
+  "appTagline": "See who's really carrying the group's risk.",
+  "@appTagline": { "description": "One-line value proposition on the entry screen." },
+  "continueLabel": "Continue",
+  "languageLabel": "Language",
+  "lenderPortalTitle": "Institutional Workspace",
+  "lenderPortalDescription": "MFI Field Triage, Contagion Simulation & Portfolio Operations",
+  "borrowerPortalTitle": "Member Portal",
+  "borrowerPortalDescription": "Personal Loan Health, Group Milestones & Confidential Hardship",
+  "switchPortal": "Switch portal",
+  "fieldTriageTab": "Field Triage",
+  "graphSimulationTab": "Graph & Simulation",
+  "portfolioAnalyticsTab": "Portfolio Analytics",
+  "myLoanTab": "My Loan",
+  "myGroupTab": "My Group",
+  "declareHardshipTab": "Declare Hardship",
+  "comingSoon": "This view is being built."
+}

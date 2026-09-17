@@ -1,0 +1,102 @@
+borrower_id,group_id,partner_id,region_id,loan_amount,term_months,repayment_interval,current_savings,is_stressed,stress_reason
+B0058,G0107,435.0,Peru_R3,625.0,14.0,monthly,203.64,1,Contagion-Driven Stress
+B0067,G0063,199.0,El Salvador_R2,650.0,14.0,monthly,203.7,1,Isolated Stress
+B0090,G0217,296.0,Togo_R3,200.0,8.0,irregular,32.05,1,Contagion-Driven Stress
+B0096,G0146,386.0,Kenya_R2,600.0,14.0,irregular,203.85,1,Contagion-Driven Stress
+B0156,G0146,126.0,Philippines_R0,350.0,3.0,irregular,65.21,1,Isolated Stress
+B0184,G0078,199.0,El Salvador_R0,550.0,15.0,bullet,38.5,1,Independent Regional Shock
+B0187,G0315,78.0,Mali_R2,225.0,5.0,monthly,61.03,1,Contagion-Driven Stress
+B0192,G0074,185.0,Jordan_R2,1425.0,21.0,monthly,377.48,1,Isolated Stress
+B0208,G0107,443.0,Madagascar_R3,600.0,9.0,irregular,77.71,1,Isolated Stress
+B0216,G0315,78.0,Mali_R0,325.0,8.0,irregular,36.3,1,Independent Regional Shock
+B0251,G0007,136.0,Philippines_R1,550.0,14.0,monthly,69.12,1,Isolated Stress
+B0296,G0134,246.0,Guatemala_R0,1050.0,14.0,monthly,227.08,1,Isolated Stress
+B0310,G0082,23.0,Mozambique_R1,225.0,20.0,monthly,41.53,1,Contagion-Driven Stress
+B0381,G0082,177.0,Colombia_R2,525.0,14.0,bullet,38.94,1,Contagion-Driven Stress
+B0419,G0146,77.0,Lebanon_R0,2000.0,15.0,monthly,131.35,1,Isolated Stress
+B0425,G0082,199.0,El Salvador_R0,1000.0,20.0,monthly,246.25,1,Independent Regional Shock
+B0439,G0078,145.0,Philippines_R1,375.0,8.0,irregular,31.66,1,Isolated Stress
+B0448,G0198,136.0,Philippines_R0,225.0,26.0,bullet,22.44,1,Contagion-Driven Stress
+B0567,G0092,162.0,Burundi_R1,3425.0,14.0,monthly,242.81,1,Contagion-Driven Stress
+B0575,G0100,188.0,Ecuador_R3,800.0,14.0,monthly,163.04,1,Isolated Stress
+B0613,G0066,9.0,Cambodia_R0,400.0,26.0,monthly,53.78,1,Contagion-Driven Stress
+B0679,G0029,78.0,Mali_R3,825.0,5.0,monthly,52.55,1,Isolated Stress
+B0713,G0217,145.0,Philippines_R2,125.0,8.0,irregular,21.05,1,Contagion-Driven Stress
+B0716,G0198,288.0,Nigeria_R2,225.0,14.0,bullet,72.51,1,Isolated Stress
+B0727,G0092,145.0,Philippines_R1,425.0,13.0,irregular,28.84,1,Isolated Stress
+B0741,G0078,56.0,Azerbaijan_R0,1925.0,19.0,monthly,482.35,1,Independent Regional Shock
+B0763,G0315,125.0,Philippines_R2,150.0,7.0,irregular,32.64,1,Independent Regional Shock
+B0791,G0315,164.0,Kenya_R0,500.0,13.0,irregular,76.88,1,Isolated Stress
+B0793,G0185,173.0,United States_R2,3875.0,26.0,monthly,223.33,1,Contagion-Driven Stress
+B0824,G0007,311.0,Cambodia_R2,100.0,8.0,monthly,14.42,1,Independent Regional Shock
+B0875,G0217,145.0,Philippines_R3,525.0,7.0,irregular,151.34,1,Contagion-Driven Stress
+B0926,G0082,302.0,Mali_R1,350.0,5.0,bullet,88.57,1,Contagion-Driven Stress
+B1000,G0146,247.0,Pakistan_R0,300.0,11.0,irregular,15.01,1,Isolated Stress
+B1013,G0078,127.0,Costa Rica_R0,1700.0,38.0,monthly,222.9,1,Isolated Stress
+B1138,G0185,247.0,Pakistan_R3,300.0,14.0,monthly,32.62,1,Contagion-Driven Stress
+B1386,G0107,118.0,Honduras_R2,650.0,15.0,monthly,67.45,1,Contagion-Driven Stress
+B1413,G0320,177.0,Colombia_R0,1075.0,27.0,monthly,184.21,1,Contagion-Driven Stress
+B1435,G0074,140.0,Bolivia_R2,1450.0,20.0,irregular,298.13,1,Isolated Stress
+B1505,G0146,126.0,Philippines_R1,350.0,10.0,monthly,81.9,1,Contagion-Driven Stress
+B1511,G0074,137.0,Ecuador_R1,1075.0,7.0,monthly,336.73,1,Independent Regional Shock
+B1530,G0066,81.0,El Salvador_R0,1000.0,14.0,monthly,110.08,1,Contagion-Driven Stress
+B1560,G0107,198.0,Turkey_R0,375.0,13.0,irregular,25.07,1,Contagion-Driven Stress
+B1565,G0082,119.0,Peru_R0,3375.0,8.0,monthly,583.54,1,Contagion-Driven Stress
+B1568,G0007,126.0,Philippines_R1,225.0,8.0,irregular,22.02,1,Isolated Stress
+B1582,G0185,9.0,Cambodia_R0,1100.0,14.0,monthly,172.77,1,Isolated Stress
+B1586,G0185,247.0,Pakistan_R1,400.0,14.0,monthly,56.94,1,Contagion-Driven Stress
+B1658,G0066,100.0,Tajikistan_R0,850.0,14.0,monthly,149.41,1,Contagion-Driven Stress
+B1667,G0198,110.0,Bolivia_R0,1000.0,22.0,monthly,52.99,1,Independent Regional Shock
+B1671,G0185,145.0,Philippines_R1,400.0,13.0,irregular,118.57,1,Isolated Stress
+B1771,G0092,305.0,Zimbabwe_R1,1000.0,14.0,monthly,283.41,1,Independent Regional Shock
+B1782,G0066,145.0,Philippines_R3,500.0,8.0,irregular,61.51,1,Independent Regional Shock
+B1795,G0320,171.0,Kyrgyzstan_R0,1475.0,14.0,monthly,328.94,1,Isolated Stress
+B1803,G0063,148.0,Sierra Leone_R2,1275.0,10.0,monthly,445.34,1,Isolated Stress
+B1821,G0092,9.0,Cambodia_R3,1500.0,17.0,monthly,353.79,1,Contagion-Driven Stress
+B1909,G0092,167.0,El Salvador_R0,425.0,14.0,monthly,125.41,1,Independent Regional Shock
+B1936,G0217,225.0,Indonesia_R2,1700.0,10.0,bullet,192.36,1,Isolated Stress
+B1950,G0029,259.0,Kenya_R2,250.0,35.0,irregular,23.31,1,Isolated Stress
+B0271,G0078,202.0,Kenya_R1,250.0,9.0,bullet,53.17,0,Not Stressed
+B0361,G0009,317.0,Honduras_R2,2000.0,39.0,monthly,452.66,0,Not Stressed
+B0379,G0315,393.0,Lao People's Democratic Republic_R3,300.0,10.0,bullet,58.47,0,Not Stressed
+B0398,G0074,145.0,Philippines_R1,600.0,5.0,irregular,193.13,0,Not Stressed
+B0411,G0029,26.0,Ukraine_R3,1200.0,26.0,monthly,207.99,0,Not Stressed
+B0436,G0074,145.0,Philippines_R2,250.0,8.0,irregular,76.3,0,Not Stressed
+B0492,G0315,247.0,Pakistan_R0,450.0,11.0,irregular,100.48,0,Not Stressed
+B0507,G0007,145.0,Philippines_R3,350.0,11.0,irregular,38.71,0,Not Stressed
+B0565,G0320,145.0,Philippines_R0,200.0,8.0,irregular,29.51,0,Not Stressed
+B0585,G0007,388.0,Kenya_R2,225.0,14.0,monthly,56.14,0,Not Stressed
+B0614,G0074,311.0,Cambodia_R2,125.0,8.0,monthly,38.98,0,Not Stressed
+B0631,G0107,145.0,Philippines_R1,450.0,7.0,irregular,102.58,0,Not Stressed
+B0836,G0100,305.0,Zimbabwe_R3,500.0,14.0,monthly,108.06,0,Not Stressed
+B0889,G0007,163.0,Uganda_R0,675.0,8.0,monthly,112.02,0,Not Stressed
+B0922,G0134,296.0,Togo_R1,75.0,5.0,irregular,8.49,0,Not Stressed
+B0925,G0100,156.0,Kenya_R2,300.0,14.0,monthly,104.8,0,Not Stressed
+B0939,G0078,156.0,Kenya_R3,300.0,14.0,monthly,70.22,0,Not Stressed
+B0942,G0100,63.0,Tajikistan_R1,1025.0,14.0,monthly,75.13,0,Not Stressed
+B1064,G0315,97.0,Guatemala_R1,525.0,6.0,irregular,142.58,0,Not Stressed
+B1073,G0134,80.0,Palestine_R2,2000.0,26.0,monthly,134.86,0,Not Stressed
+B1120,G0029,121.0,Vietnam_R0,675.0,14.0,monthly,114.35,0,Not Stressed
+B1129,G0320,100.0,Tajikistan_R2,1425.0,20.0,monthly,480.71,0,Not Stressed
+B1182,G0009,145.0,Philippines_R2,375.0,11.0,irregular,126.82,0,Not Stressed
+B1205,G0217,81.0,El Salvador_R0,700.0,20.0,monthly,185.85,0,Not Stressed
+B1244,G0009,145.0,Philippines_R3,250.0,8.0,irregular,54.81,0,Not Stressed
+B1421,G0134,177.0,Colombia_R2,850.0,27.0,bullet,137.85,0,Not Stressed
+B1431,G0066,123.0,Philippines_R0,375.0,8.0,irregular,49.84,0,Not Stressed
+B1473,G0009,163.0,Uganda_R2,925.0,14.0,monthly,75.64,0,Not Stressed
+B1500,G0320,145.0,Philippines_R0,450.0,8.0,irregular,57.43,0,Not Stressed
+B1517,G0198,127.0,Costa Rica_R0,1825.0,38.0,monthly,226.79,0,Not Stressed
+B1543,G0063,125.0,Philippines_R0,325.0,12.0,irregular,81.23,0,Not Stressed
+B1554,G0100,145.0,Philippines_R3,300.0,8.0,irregular,89.23,0,Not Stressed
+B1563,G0063,181.0,Georgia_R2,1275.0,26.0,monthly,104.06,0,Not Stressed
+B1592,G0063,145.0,Philippines_R0,325.0,8.0,irregular,108.01,0,Not Stressed
+B1696,G0009,145.0,Philippines_R3,250.0,8.0,irregular,45.01,0,Not Stressed
+B1737,G0063,63.0,Tajikistan_R0,250.0,14.0,monthly,55.91,0,Not Stressed
+B1741,G0009,161.0,Rwanda_R0,3300.0,6.0,irregular,874.23,0,Not Stressed
+B1809,G0198,58.0,Paraguay_R1,1500.0,17.0,monthly,237.19,0,Not Stressed
+B1812,G0107,145.0,Philippines_R0,450.0,11.0,irregular,64.73,0,Not Stressed
+B1838,G0029,133.0,Kenya_R2,175.0,14.0,monthly,19.86,0,Not Stressed
+B1840,G0134,145.0,Philippines_R2,350.0,11.0,irregular,120.52,0,Not Stressed
+B1845,G0320,58.0,Paraguay_R1,4800.0,8.0,monthly,316.82,0,Not Stressed
+B1927,G0007,145.0,Philippines_R1,225.0,8.0,irregular,65.13,0,Not Stressed
+B1956,G0100,311.0,Cambodia_R2,100.0,8.0,monthly,14.19,0,Not Stressed

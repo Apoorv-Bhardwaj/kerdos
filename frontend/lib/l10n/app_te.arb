@@ -1,0 +1,18 @@
+{
+  "@@locale": "te",
+  "appTagline": "గ్రూప్ యొక్క నిజమైన రిస్క్‌ను ఎవరు మోస్తున్నారో చూడండి.",
+  "continueLabel": "కొనసాగించు",
+  "languageLabel": "భాష",
+  "lenderPortalTitle": "రుణదాత పోర్టల్",
+  "lenderPortalDescription": "గ్రూప్ ఆరోగ్యాన్ని పర్యవేక్షించండి, వ్యాప్తిని గుర్తించండి, ముందుగానే చర్య తీసుకోండి.",
+  "borrowerPortalTitle": "రుణగ్రహీత పోర్టల్",
+  "borrowerPortalDescription": "మీ లోన్ స్థితిని మరియు మీ గ్రూప్ పురోగతిని చూడండి.",
+  "switchPortal": "పోర్టల్ మార్చండి",
+  "fieldTriageTab": "ఫీల్డ్ ట్రయాజ్",
+  "graphSimulationTab": "గ్రాఫ్ & సిమ్యులేషన్",
+  "portfolioAnalyticsTab": "పోర్ట్‌ఫోలియో అనలిటిక్స్",
+  "myLoanTab": "నా రుణం",
+  "myGroupTab": "నా గ్రూప్",
+  "declareHardshipTab": "ఇబ్బందిని తెలియజేయండి",
+  "comingSoon": "ఈ స్క్రీన్ ఇంకా తయారవుతోంది."
+}

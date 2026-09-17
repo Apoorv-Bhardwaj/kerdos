@@ -1,0 +1,18 @@
+{
+  "@@locale": "bn",
+  "appTagline": "দলটি প্রকৃতপক্ষে কার ঝুঁকি বহন করছে তা দেখুন।",
+  "continueLabel": "চালিয়ে যান",
+  "languageLabel": "ভাষা",
+  "lenderPortalTitle": "ঋণদাতা পোর্টাল",
+  "lenderPortalDescription": "দলের অবস্থা পর্যবেক্ষণ করুন, সংক্রমণ শনাক্ত করুন এবং আগেভাগে ব্যবস্থা নিন।",
+  "borrowerPortalTitle": "ঋণগ্রহীতা পোর্টাল",
+  "borrowerPortalDescription": "আপনার ঋণের অবস্থা এবং আপনার দলের অগ্রগতি দেখুন।",
+  "switchPortal": "পোর্টাল পরিবর্তন করুন",
+  "fieldTriageTab": "ফিল্ড ট্রায়াজ",
+  "graphSimulationTab": "গ্রাফ ও সিমুলেশন",
+  "portfolioAnalyticsTab": "পোর্টফোলিও বিশ্লেষণ",
+  "myLoanTab": "আমার ঋণ",
+  "myGroupTab": "আমার দল",
+  "declareHardshipTab": "সমস্যা জানান",
+  "comingSoon": "এই স্ক্রিনটি এখনও তৈরি হচ্ছে।"
+}

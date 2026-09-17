@@ -1,0 +1,18 @@
+{
+  "@@locale": "hi",
+  "appTagline": "देखें, समूह का असली जोखिम कौन उठा रहा है।",
+  "continueLabel": "जारी रखें",
+  "languageLabel": "भाषा",
+  "lenderPortalTitle": "ऋणदाता पोर्टल",
+  "lenderPortalDescription": "समूह की स्थिति देखें, संक्रमण का पता लगाएं, और समय पर कार्रवाई करें।",
+  "borrowerPortalTitle": "उधारकर्ता पोर्टल",
+  "borrowerPortalDescription": "अपने लोन की स्थिति और अपने समूह की प्रगति देखें।",
+  "switchPortal": "पोर्टल बदलें",
+  "fieldTriageTab": "फील्ड ट्राएज",
+  "graphSimulationTab": "ग्राफ और सिमुलेशन",
+  "portfolioAnalyticsTab": "पोर्टफोलियो विश्लेषण",
+  "myLoanTab": "मेरा ऋण",
+  "myGroupTab": "मेरा समूह",
+  "declareHardshipTab": "कठिनाई सूचित करें",
+  "comingSoon": "यह स्क्रीन अभी तैयार की जा रही है।"
+}

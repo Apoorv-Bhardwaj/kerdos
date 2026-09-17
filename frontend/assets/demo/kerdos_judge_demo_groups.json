@@ -1,0 +1,62 @@
+[
+  {
+    "group_id": "G0188",
+    "country": "India",
+    "region": "Varanasi_R1",
+    "total_members": 6,
+    "on_time_repayment_record": 1.0,
+    "has_hidden_risk": true,
+    "urgency": "urgent",
+    "causal_label": "Contagion-Driven Stress",
+    "drowning_member_id": "B9101",
+    "drowning_member_savings": 150.0,
+    "drowning_member_loan": 625.0,
+    "peer_savings_depleted_pct": 72.0,
+    "action_recommendation": "Action: Schedule confidential pre-meeting check-in with borrower B9101 before Wednesday center gathering."
+  },
+  {
+    "group_id": "G0299",
+    "country": "India",
+    "region": "Kolar_R3",
+    "total_members": 5,
+    "on_time_repayment_record": 1.0,
+    "has_hidden_risk": true,
+    "urgency": "urgent",
+    "causal_label": "Contagion-Driven Stress",
+    "drowning_member_id": "B9204",
+    "drowning_member_savings": 120.0,
+    "drowning_member_loan": 500.0,
+    "peer_savings_depleted_pct": 65.0,
+    "action_recommendation": "Action: Emergency liquidity buffer grant recommended to prevent co-liability domino default."
+  },
+  {
+    "group_id": "G0341",
+    "country": "India",
+    "region": "Madurai_R2",
+    "total_members": 7,
+    "on_time_repayment_record": 1.0,
+    "has_hidden_risk": true,
+    "urgency": "watchlist",
+    "causal_label": "Isolated Stress",
+    "drowning_member_id": "B9315",
+    "drowning_member_savings": 280.0,
+    "drowning_member_loan": 750.0,
+    "peer_savings_depleted_pct": 30.0,
+    "action_recommendation": "Action: Individual livestock insurance claim processing for B9315. Peer savings buffer secure."
+  },
+  {
+    "group_id": "G0402",
+    "country": "Peru",
+    "region": "Cusco_R2",
+    "total_members": 6,
+    "on_time_repayment_record": 1.0,
+    "has_hidden_risk": false,
+    "urgency": "healthy",
+    "causal_label": "Normal Operation",
+    "drowning_member_id": "B9401",
+    "drowning_member_savings": 450.0,
+    "drowning_member_loan": 600.0,
+    "peer_savings_depleted_pct": 0.0,
+    "action_recommendation": "Action: Standard monthly monitoring. Group operating stably with full mutual savings shield."
+  }
+]
